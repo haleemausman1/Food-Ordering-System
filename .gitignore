@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+out/
+target/
+build/
+
+# Generated files
+ORDERS_FILE.txt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
