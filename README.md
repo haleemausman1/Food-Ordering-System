@@ -16,24 +16,6 @@ The Food Ordering System simplifies the food ordering process by allowing users 
 * Generate a bill
 * Save order details
 
-The project demonstrates Object-Oriented Programming concepts and JavaFX GUI development.
-
----
-
-## ✨ Features
-
-* ✅ Interactive JavaFX graphical user interface
-* ✅ Welcome screen
-* ✅ City and town selection
-* ✅ Location-based restaurant selection
-* ✅ Restaurant-specific menus
-* ✅ Food and drink selection
-* ✅ Customer details form
-* ✅ Automatic bill calculation
-* ✅ Order confirmation dialog
-* ✅ Save order details to a text file
-* ✅ Back and Exit navigation
-
 ---
 
 ## 🛠 Technologies Used
@@ -142,44 +124,3 @@ git clone https://github.com/haleemausman1/Food-Ordering-System.git
 ## Order Confirmation & Bill
 
 ![Bill](screenshots/bill.png)
-
----
-
-## 🎯 Learning Outcomes
-
-This project helped strengthen understanding of:
-
-* Object-Oriented Programming (OOP)
-* JavaFX GUI Development
-* Event-Driven Programming
-* File Handling
-* Collections Framework
-* Application Design
-* User Interface Development
-
----
-
-## 🔮 Future Improvements
-
-* Database integration
-* User authentication
-* Online payment system
-* Order history
-* Search and filtering
-* Admin dashboard
-* Improved user interface
-* Enhanced input validation
-
----
-
-## 👩‍💻 Author
-
-**Haleema Usman**
-
-Second Semester University Project
-
----
-
-## 📄 License
-
-This project was developed for educational purposes as part of a university semester project.
